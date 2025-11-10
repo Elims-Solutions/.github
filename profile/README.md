@@ -8,6 +8,3 @@ What we do
 
 Who we serve
 - Startups, SMBs, and enterprises looking for practical engineering and clear‑sighted strategy.
-
-Get in touch
-- Explore our projects in this organization or reach out at hello@elims-solutions.example (replace with your contact).
